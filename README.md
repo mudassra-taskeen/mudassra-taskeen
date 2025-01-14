@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">🥇 Academic Excellence: 3.73 CGPA<br>🌟 Global Competitions:<br>      Ranked 7,730th worldwide in Meta Hacker Cup 2024<br>      Secured 142th rank worldwide in UC Berkeley Coding Competition 2024<br>      Among the 3 Pakistani students selected for the MIT Emerging Talent Program</p>
+<p align="left">🥇 Academic Excellence: 3.73 CGPA<br>🌟 Global Competitions:<br>      Achieved a global ranking of 7,730 in the Meta Hacker Cup 2024.<br>      Secured 142th rank worldwide in UC Berkeley Coding Competition 2024<br>      Among the 3 Pakistani students selected for the MIT Emerging Talent Program</p>
 
 ###
 
