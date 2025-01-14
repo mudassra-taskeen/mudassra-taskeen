@@ -22,16 +22,14 @@ A Chemistry graduate with a passion for Machine Learning and Data Science.
 
 ## Tech Stack
 
-## Tech Stack
-
 ![WordPress logo](
 https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg
-){ width=100px height=100px }
+){ width=60px height=60px }
 ![HTML5 logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)
-{ width=100px height=100px }  
+{ width=60px height=60px }  
 ![Python logo](
 https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg
-){ width=100px height=100px }
+){ width=60px height=60px }
 
 ---
 
