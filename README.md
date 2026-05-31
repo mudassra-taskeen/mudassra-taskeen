@@ -1,6 +1,6 @@
 # Hi, I am Mudassra Taskeen
 
-## Aspiring Data Scientist
+
 
 ---
 
